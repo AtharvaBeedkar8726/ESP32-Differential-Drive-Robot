@@ -32,7 +32,7 @@ Both control methods ultimately communicate with the same ESP32 robot controller
 
 ## System Architecture
 
-![System Architecture](Project - ESP32-Differential-Drive-Robot/media/diagrams/system_architecture.png)
+![System Architecture](./Project%20-%20ESP32-Differential-Drive-Robot/media/diagrams/system_architecture.png)
 
 ### Gamepad Control Path
 
